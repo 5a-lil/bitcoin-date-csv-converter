@@ -1,4 +1,4 @@
-# Bitcoin_Date_CSV_Converter
+# bitcoin-data-csv-converter
 
 A program that takes a file as input and outputs the value associated to a given date based on bitcoin value over the years.
 
